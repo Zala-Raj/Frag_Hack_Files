@@ -1,0 +1,19 @@
+--------------------------------------------------------------------
+For chestmanager.dat file
+--------------------------------------------------------------------
+
+First delete chestmanager.dat from
+/storage/emulated/0/Android/data/com.ohbibi.fps/files/game_save_prod/**chestmanager.dat**
+
+and paste new chestmanager.dat to 
+/storage/emulated/0/Android/data/com.ohbibi.fps/files/game_save_prod/**Here**
+
+--------------------------------------------------------------------
+For game_save-prod folder
+--------------------------------------------------------------------
+
+First delete game_save-prod folder from
+/storage/emulated/0/Android/data/com.ohbibi.fps/files/**game_save_prod**
+
+and paste new game_save-prod to 
+/storage/emulated/0/Android/data/com.ohbibi.fps/files/**Here**
